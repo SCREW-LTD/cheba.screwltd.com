@@ -1,2 +1,2 @@
-# cheba.stargazer-game.com
-(cheba) STARGAZER website source!
+# cheba.screwltd.com
+(cheba) website source!
